@@ -1,0 +1,14 @@
+{
+	"products": [
+		{ "name": "Aspirin", "price": 5.99 },
+		{ "name": "Paracetamol", "price": 3.49 },
+		{ "name": "Plasters", "price": 2.99 },
+		{ "name": "Antacid Tablets", "price": 7.99 },
+		{ "name": "Cough Syrup", "price": 8.99 },
+		{ "name": "Antihistamine", "price": 6.49 },
+		{ "name": "Eye Drops", "price": 4.99 },
+		{ "name": "Antibacterial Ointment", "price": 6.99 },
+		{ "name": "Multivitamins", "price": 9.99 },
+		{ "name": "Thermometer", "price": 12.99 }
+	]
+}
